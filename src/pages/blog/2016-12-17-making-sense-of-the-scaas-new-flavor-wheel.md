@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Making sense of the SCAA’s new Flavor WHOOL
 date: 2016-12-17T15:04:10.000Z
 description: >-
   The Coffee Taster’s Flavor WHOOL, the official resource used by coffee
